@@ -1,7 +1,12 @@
 # Firebase Flutter Force Update
 
+[![Pub Version](https://img.shields.io/pub/v/firebase_flutter_force_update)](https://pub.dev/packages/firebase_flutter_force_update)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 A Flutter package to enforce app updates based on a minimum version stored in Cloud Firestore.
 Useful for preventing users from using outdated, broken, or deprecated versions of your app.
+
+**Repository:** [https://github.com/kedirinesia/firebase_flutter_force_update](https://github.com/kedirinesia/firebase_flutter_force_update)
 
 ## Features
 

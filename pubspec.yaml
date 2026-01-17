@@ -1,8 +1,8 @@
 name: firebase_flutter_force_update
 description: A Flutter package to enforce app updates based on a minimum version stored in Cloud Firestore. Useful for version management.
 version: 0.0.1
-homepage:
-
+homepage: https://github.com/kedirinesia/firebase_flutter_force_update
+repository: https://github.com/kedirinesia/firebase_flutter_force_update
 environment:
   sdk: ">=2.19.6 <3.0.0"
   flutter: ">=1.17.0"
